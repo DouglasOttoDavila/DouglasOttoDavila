@@ -1,3 +1,7 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&color=1E91FF&multiline=true&width=435&height=70&lines=%22Quality+is+generally+transparent+when+present%2C;but+easily+recognized+in+its+absence.%22;Alan+Gillies)](https://git.io/typing-svg)
+
+
+
 - 💻 QA Engineer at @objectedge
 - 🤖 WebdriverIO, Cypress & Robot 
 - 👨‍💻 Javascript, Java & Python
