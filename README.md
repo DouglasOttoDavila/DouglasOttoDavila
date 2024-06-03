@@ -6,7 +6,7 @@
  🤖 WebdriverIO, Cypress & Robot 
 ## Programming Languages
  👨‍💻 Javascript, Java & Python
- ## Graduation (in progress...)
+ ## Graduation
  🎓 System Analysis and Development Graduation at @uniritter
 
 ## Stats
