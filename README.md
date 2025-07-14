@@ -3,7 +3,7 @@
 ## Current Occupation
  💻 Software Development Engineer in Test (SDET) at @objectedge
 ## Automation Frameworks
- 🤖 WebdriverIO, Cypress & Robot 
+ 🤖 Playwright, WebdriverIO, Cypress & Robot 
 ## Programming Languages
  👨‍💻 Python, Javascript & Java
  ## Graduation
